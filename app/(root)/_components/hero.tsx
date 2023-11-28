@@ -57,7 +57,7 @@ export const Hero = () => {
       )}
 
       {!isAuthenticated && !isLoading && (
-        <SignInButton mode="modal">
+        <SignInButton mode="modal" afterSignInUrl="/">
           <Button size={"lg"}>
             Sign in
             <ArrowRight className="h-4 w-4 ml-2" />
