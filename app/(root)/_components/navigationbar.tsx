@@ -44,7 +44,7 @@ export const Navigationbar = () => {
         {isAuthenticated && !isLoading && (
           <>
             <Button asChild variant={"ghost"}>
-              <Link href={"/documents"}>Enter Ethereal</Link>
+              <Link href={"/documents"}>Enter Ethereal Notes</Link>
             </Button>
 
             <UserButton afterSignOutUrl="/" />
