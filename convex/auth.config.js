@@ -1,7 +1,7 @@
 export default {
   providers: [
     {
-      domain: "https://summary-guinea-95.clerk.accounts.dev",
+      domain: "https://communal-cub-58.clerk.accounts.dev",
       applicationID: "convex",
     },
   ],
