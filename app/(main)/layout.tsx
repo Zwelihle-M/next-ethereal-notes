@@ -6,6 +6,7 @@ import { redirect } from "next/navigation";
 import { Spinner } from "@/components/spinner";
 import { Sidebar } from "./_components/sidebar";
 import { SearchCommand } from "@/components/search-command";
+import ExtraHero from "./_components/extra-hero";
 
 const MainLayout = ({ children }: { children: React.ReactNode }) => {
   const { isAuthenticated, isLoading } = useConvexAuth();
@@ -28,6 +29,8 @@ const MainLayout = ({ children }: { children: React.ReactNode }) => {
       <main className="flex-1 h-full overflow-y-auto">
         <SearchCommand />
         {children}
+
+        <ExtraHero/>
       </main>
     </div>
   );
