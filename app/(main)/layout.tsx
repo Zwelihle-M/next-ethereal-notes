@@ -30,7 +30,7 @@ const MainLayout = ({ children }: { children: React.ReactNode }) => {
         <SearchCommand />
         {children}
 
-        <ExtraHero/>
+        
       </main>
     </div>
   );
