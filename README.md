@@ -22,7 +22,7 @@ https://next-ethereal-notes.vercel.app/
 
 - [Next.js 14](https://nextjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/) 
--[Convex](https://www.convex.dev/)
+- [Convex](https://www.convex.dev/)
 - [Shadcn UI](https://ui.shadcn.com/)
 
 ## Installation
