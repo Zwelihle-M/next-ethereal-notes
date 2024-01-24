@@ -15,6 +15,7 @@ workflows. Elevate your productivity effortlessly with Ethereal
 Notes – the gateway to a new era of streamlined efficiency.
 
 ## Demo
+![Ethereal Notes Demo](public/ethereal-notes.png)
 
 https://next-ethereal-notes.vercel.app/
 
