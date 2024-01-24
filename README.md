@@ -21,11 +21,12 @@ https://next-ethereal-notes.vercel.app/
 ## Technologies Used
 
 - [Next.js 14](https://nextjs.org/)
-- [Tailwind CSS](https://tailwindcss.com/) -[Convex](https://www.convex.dev/)
+- [Tailwind CSS](https://tailwindcss.com/) 
+-[Convex](https://www.convex.dev/)
 - [Shadcn UI](https://ui.shadcn.com/)
 
 ## Installation
 
-npm install
-npm install convex
-npx convex dev
+- npm install
+- npm install convex
+- npx convex dev
