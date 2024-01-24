@@ -16,3 +16,6 @@ https://next-ethereal-notes.vercel.app/
 ## Installation
 
 npm install
+npm install convex 
+npx convex dev 
+
